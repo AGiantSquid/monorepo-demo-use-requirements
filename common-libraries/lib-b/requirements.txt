@@ -1,0 +1,3 @@
+-r ../lib-c/requirements.txt
+
+-e ../lib-b
